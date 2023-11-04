@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   /*background-color: red;*/
+    height: 100vh;
+}
+img{
+    width:300px;
+} 
+input{
+    width: 400px;
+    margin-top: 20px;
+    line-height: 24px;
+    border-radius: 30px;
+}
+button{
+    margin-top: 10px;
+    padding: 8px,16px;
+    border: none;
+   /* padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 20px;*/
+
+}
